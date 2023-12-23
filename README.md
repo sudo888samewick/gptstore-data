@@ -1,7 +1,7 @@
 # gptstore-data
 It is a repo recording all the public gpts. You can use it to build your own GPTs Store.
 
-这是一个仓库，用来记录所有已公开发布的 GPTs 应用。总长度达到 10000 多条。  
+这是一个仓库，用来记录所有已公开发布的 GPTs 应用。总长度达到 10000 多条。   
 记录了 标题 描述 头像 链接（这项最重要，点击可以直接跳转到对应的GPT）
 
 ![image](https://github.com/sudo888samewick/gptstore-data/assets/150644414/9c736d92-931e-46b2-9bf5-ca046cebfdab)
